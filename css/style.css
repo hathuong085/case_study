@@ -1,0 +1,17 @@
+.error{
+    color: red;
+}
+.jumbotron{
+    background-image: url(../anh/anhnen2.jpg);
+}
+.tieude{
+    font-size: 60px;
+    color: red;
+    font-weight: bold;
+}
+.logout{
+    text-align: right;
+}
+.admin{
+    background-color: rgb(185, 182, 182);
+}

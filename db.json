@@ -1,0 +1,49 @@
+{
+  "dsduan": [
+    {
+      "diachi": "sfds",
+      "anhduan": "anh/anh1.jfif",
+      "vttk": "sdsfdsas",
+      "gia": "131232",
+      "id": 3
+    }
+  ],
+  "tuvanvien": [
+    {
+      "tendangnhap":"haphithuong15",
+      "matkhau":"thuong@15",
+      "avatar":"thuong.jpg",
+      "ten":"Hà Phi Thường",
+      "kvct":"Thanh Hóa -> Huế",
+      "phone":"0123456789",
+      "id": 1
+    },
+    {
+      "tendangnhap":"buingan16",
+      "matkhau":"ngan@16",
+      "avatar":"ngan.jpg",
+      "ten":"Bùi Phan Bảo Ngân",
+      "kvct":"Đà Nẵng -> Khánh Hòa",
+      "phone":"0123456780",
+      "id": 2
+    },
+    {
+      "tendangnhap":"phapphan17",
+      "matkhau":"phap@17",
+      "avatar":"phap.jpg",
+      "ten":"Phan Bá Pháp",
+      "kvct":"Miền Bắc",
+      "phone":"0123456781",
+      "id": 3
+    },
+    {
+      "tendangnhap":"levu18",
+      "matkhau":"levu@18",
+      "avatar":"lqvu.jpg",
+      "ten":"Lê Quang Vũ",
+      "kvct":"Miền Nam",
+      "phone":"0123456789",
+      "id": 4
+    }
+  ]
+}
